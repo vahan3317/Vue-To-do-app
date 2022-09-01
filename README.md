@@ -1,6 +1,29 @@
 # todo-app
 
-## Build Setup
+
+##Open Project Local
+
+1.git clone <link>
+2.npm install
+3.npm run dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Build Setup
 
 ```bash
 # install dependencies
